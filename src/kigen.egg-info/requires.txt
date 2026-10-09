@@ -1,5 +1,0 @@
-lark
-rich
-
-[dev]
-pytest
